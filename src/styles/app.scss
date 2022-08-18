@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+
+  a {
+    img {
+      width: 20rem;
+    }
+  }
+
+  h1 {
+    font-size: 1.8rem;
+    color: #c33b3f;
+  }
+}
